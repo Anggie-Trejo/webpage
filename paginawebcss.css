@@ -1,0 +1,35 @@
+body{
+    background-color: #B7C9F2; /*Modifica el color del fondo */
+    color: #9195F6; /*Modifica el color del texto general */
+    width:100vw;
+    height: 500vh;
+    margin:0;
+    
+    }
+.titulo
+{
+  color: white; /*modifica color del titulo */
+  background-color: #FB88B4; /*modifica el recuadro del titulo*/
+  
+  left:100px;
+}
+#item-one
+{
+    background-color:#FDF0F0;
+}
+.deportes
+{   
+    color:#DEAC80;
+    background-color:#072541 ;
+    
+}
+.dibujo
+{
+    color:white;
+    background-color:#402B3A ;
+}
+/*#fixed
+{
+    position: fixed;
+    
+}*/
